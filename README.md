@@ -8,7 +8,7 @@
 
 * Working with loops
 
-* Working with arrays
+* Working with arrays: \href{https://github.com/pozueco/js_training/blob/main/JavaScript_Arrays.ipynb}
 
 * Working with iFrames
 
